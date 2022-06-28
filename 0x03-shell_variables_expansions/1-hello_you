@@ -1,2 +1,2 @@
-#!/bin/nash
-echo "hello SUSER"
+#!/bin/bash
+echo "hello $USER"
